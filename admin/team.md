@@ -1,6 +1,6 @@
-#***9 of Spades***
+# ***9 of Spades***
 
-#**Roster**
+## **Roster**
 * Charun Battula
 * Ahmed Issa
 * Travis Henry
