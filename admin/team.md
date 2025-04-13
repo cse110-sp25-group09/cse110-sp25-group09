@@ -4,7 +4,8 @@
 ### [Charun Battula]()
 ### [Ahmed Issa](https://a1issa369.github.io/110-project/)
 * My name is Ahmed Issa. I am a rising junior computer science major in UCSD and this project is for my CSE 110 class. My three main interests outside of class are gym, watching anime, and learning about AI. I'm in the middle of trying to make an anime/movie reccomender project and hope it turns out well!
-### [Travis Henry]()
+### [Travis Henry](https://trhenry33.github.io/Pages/)
+* Hi I'm Travis Henry and I'm a second year computer science major. In my spare time I love enjoying music (indie and folk), especially collecting vinyls and going to concerts, and I also love to stay active by going to the gym and playing pickup sports.
 ### [Vincent Trinh](https://vkt5451.github.io/Github-Pages-project/)
 * Hello! My name is Vincent, people usually just call me Vince and I am a third year transfer student majoring in Computer Science. I am from Sacramento, California and I enjoy reading, working out and journaling.
 ### [Trisha Nguyen](https://trishangvyen.github.io/CSE110-GitHub-Pages/)
