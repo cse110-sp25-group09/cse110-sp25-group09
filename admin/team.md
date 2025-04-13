@@ -1,7 +1,8 @@
 # ***9 of Spades***
 
 ## **Roster**
-### [Charun Battula]()
+### [Charun Battula](https://chana-battura.github.io/Chana-Battura/)
+* Hello, My name is Charan Battula and I am a second year Computer Science major at Muir.  I enjoy watching movies, playing tennis, walking my dog and working out at the gym
 ### [Ahmed Issa](https://a1issa369.github.io/110-project/)
 * My name is Ahmed Issa. I am a rising junior computer science major in UCSD and this project is for my CSE 110 class. My three main interests outside of class are gym, watching anime, and learning about AI. I'm in the middle of trying to make an anime/movie reccomender project and hope it turns out well!
 ### [Travis Henry](https://trhenry33.github.io/Pages/)
