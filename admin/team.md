@@ -12,13 +12,15 @@
 ### [Trisha Nguyen](https://trishangvyen.github.io/CSE110-GitHub-Pages/)
 * I'm a second year student in Sixth College majoring in Computer Science. I'm a San Diego native and some of my hobbies are going to concerts and cafes.
 ### [Brendan Keane](https://github.com/Keanooo7/lab1_110/blob/main/index.md)
+* I am a third year transfer student who is majoring in Computer Science, outside of coding I am a big runner and enjoy playing Smash Bros.
 ### [Rosario Ortiz](https://github.com/tritonro)
 * My name is Rosario Ortiz and I'm a third year Computer Science major, also minoring in Computational Social Science. In my personal life, I enjoy crocheting and overpriced coffee drinks.
 ### [Pratham Salva](https://prsavla.github.io/lab1-cse110/)
 * My name is Pratham Savla and I'm a second year student majoring in Computer Science at Muir College. Outside of classes and work, I enjoy going to the gym, traveliing, and I'm super into ecommerce.
 ### [Taha Masood](https://t-m1.github.io/CSE110-Lab1/)
 * My name is Taha Masood and I am a 4th year transfer student majoring in Math-Computer Science. Outside of class I enjoy reading and playing basketball. 
-### [Tri To]()
+### [Tri To](https://trto1.github.io/User-Page/)
+* Hello, my name is Tri! I'm a second-year CE major. I enjoy reading, playing badminton, and playing games with friends.
 
 
 
