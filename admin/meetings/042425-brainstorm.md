@@ -19,4 +19,4 @@
   - flashcard generation based on notes, or make themselves
   - mental health journaling, flash card adjacent
 
-## End of Meeting: 3:05
+## End of Meeting: 3:05pm
