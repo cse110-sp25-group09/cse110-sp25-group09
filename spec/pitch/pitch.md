@@ -1,4 +1,4 @@
-# Statement of Purpose
+# Links to Pitch
 
 ## Link to slide deck: https://docs.google.com/presentation/d/1kNkAI1moiNc0zzFhPdG2Puuxb2BeE2hlhr1BFqqFOdA/edit?usp=sharing
 
