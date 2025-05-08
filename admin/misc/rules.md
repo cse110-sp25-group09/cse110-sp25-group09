@@ -1,14 +1,14 @@
 # Values, Mission, and Common Goals 
 ### What core values and guiding principles will your team uphold?
- -Communication, respect, timeliness to ensure proper development.
+ - Communication, respect, timeliness to ensure proper development.
  - Want to be done properly and documented well, with time to test.
 ### Why are we engaging in this project?
- -We plan to create a visually engaging and efficient Habit Tracker app that helps users build and maintain positive routines. The app uses a card-based interface allowing quick completion, visual streak tracking, habit grouping, and delightful animations tied to habit themes.
+ - We plan to create a visually engaging and efficient Habit Tracker app that helps users build and maintain positive routines. The app uses a card-based interface allowing quick completion, visual streak tracking, habit grouping, and delightful animations tied to habit themes.
 ### What unique value do we intend to bring?
- -The card based approach makes the application mroe intutitve for every user, gaining more overall value and enjoyment.
- -Want to bring a sense of accomplishment with our scrolling through of cards
+ - The card based approach makes the application mroe intutitve for every user, gaining more overall value and enjoyment.
+ - Want to bring a sense of accomplishment with our scrolling through of cards
 ### What outcomes or milestones does the team aim to achieve together?
- -Tracking all of the habits in a safe storage space
+ - Tracking all of the habits in a safe storage space
  - Proper UI with card based features
  - Users can pick how the cards look (color, frequency)
 
