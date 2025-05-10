@@ -10,4 +10,4 @@ jobs: # the things being executed
       - name: Install Dependencies
         run: npm install
       - name: Unit Test
-        run: npx jest ./admin/cipipeline/unit.test.js # the actual testing line
+        run: npm test -- ./admin/cipipeline/unit.test.js
