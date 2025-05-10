@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "[Our Team of Spades :)](admin/team.md)",
   "main": "index.js",
+  "type": "module",
   "devDependencies": {
     "jest": "^29.7.0"
   },
