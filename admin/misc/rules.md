@@ -1,3 +1,5 @@
+Github Repo Link: https://github.com/cse110-sp25-group09/cse110-sp25-group09
+
 # Values, Mission, and Common Goals 
 ### What core values and guiding principles will your team uphold?
  - Communication, respect, timeliness to ensure proper development.
