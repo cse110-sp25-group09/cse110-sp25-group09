@@ -2,7 +2,7 @@
 
 
 
-## Feature
+## JSDoc
 We have decided to use **JSDoc** for documentation automation. JSDoc allows us to embed documentation directly within our JS files using specially formatted comments. We will include a script in our CI pipeline to automatically generate HTML documentation files whenever we push changes to the repository.
 This decision ensures:
 - Developers write documentation as they code
