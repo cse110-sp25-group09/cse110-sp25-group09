@@ -2,7 +2,7 @@
 
 
 ## Context
-> Our team is building a Habit Tracker web application. As part of our CI/CD pipeline, we want to maintain clean, up-to-date, and accessible documentation. Writing and maintaining manual documentation for JavaScript files would be inefficient and prone to inconsistency. To prevent this, we need an automated tool that can generate documentation directly from comments in the source code.
+> Writing and maintaining manual documentation for JavaScript files would be inefficient and prone to inconsistency. To prevent this, we need an automated tool that can generate documentation directly from comments in the source code.
 ## Decision
 We have decided to use **JSDoc** for documentation automation. JSDoc allows us to embed documentation directly within our JS files using specially formatted comments. We will include a script in our CI pipeline to automatically generate HTML documentation files whenever we push changes to the repository.
 This decision ensures:
