@@ -9,6 +9,9 @@
 ## Accomplished
  - 
 
+## Blockers
+ - 
+
 ## Sprint Goals
  - 
 
