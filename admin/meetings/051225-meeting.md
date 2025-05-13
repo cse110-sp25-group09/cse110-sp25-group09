@@ -26,6 +26,7 @@
  - Estblished we will name our branch after the issue and the current sprint
  - Every javascipt function should have unit tests added, this is the job of the function creator's team
  - Message at 9pm everyday of what you are working on, whats blocking, what should be done by the sprint.
+ - Message slack on a pull request, and assign someone to revie (might be automatic)
    
 
 ## End of Meeting: 9:57pm
