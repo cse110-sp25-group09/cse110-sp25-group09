@@ -2,7 +2,7 @@
 
 ## Time of Meeting: 1pm
 
-## Attendance: Travis, Tri, Ahmed, Brendan, Charan, Trisha, Ahmed
+## Attendance: Travis, Tri, Ahmed, Brendan, Charan, Trisha, Rosario
 
 ## Location: Zoom
 
