@@ -9,7 +9,7 @@
 ## Accomplished
  - basic ui choices
  - create card prototype
- - demo
+ - demo for local storage
 
 ## Blockers
  - time and midterms
@@ -21,9 +21,10 @@
  - get basic ui's done
 
 ## General Notes:
- - we will meet sunday afternoon to review and retrospective
+ - we will meet sunday afternoon 1pm to review and retrospective (zoom or library)
+ - if can't make it, add your review and retrospective thoughts to slack before 1pm Sunday
  - demo something on sunday
  - these both will be in an md file for our assignment
  - look to finish our sprint by sunday
 
-## End of Meeting:
+## End of Meeting: 2pm
