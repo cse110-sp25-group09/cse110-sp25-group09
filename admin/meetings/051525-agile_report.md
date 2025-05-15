@@ -1,0 +1,27 @@
+# Meeting Name: Agile Review 2
+
+## Time of Meeting: 1pm
+
+## Attendance: Travis, Tri, Ahmed, Brendan
+
+## Location: Zoom
+
+## Accomplished
+ - basic ui choices
+ - 
+
+## Blockers
+ - time and midterms
+ - sickness
+
+## Sprint Goals
+ - finish strong on our sprint
+ - pick up the pace a bit
+ - get basic ui's done
+
+## General Notes:
+ - we will meet sunday afternoon to review and retrospective
+ - these both will be in an md file for our assignment
+ - look to finish our sprint by sunday
+
+## End of Meeting:
