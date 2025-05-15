@@ -21,6 +21,7 @@
 
 ## General Notes:
  - we will meet sunday afternoon to review and retrospective
+ - demo something on sunday
  - these both will be in an md file for our assignment
  - look to finish our sprint by sunday
 
