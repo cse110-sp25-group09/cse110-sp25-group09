@@ -2,13 +2,14 @@
 
 ## Time of Meeting: 1pm
 
-## Attendance: Travis, Tri, Ahmed, Brendan
+## Attendance: Travis, Tri, Ahmed, Brendan, Charan, Trisha, Ahmed
 
 ## Location: Zoom
 
 ## Accomplished
  - basic ui choices
- - 
+ - create card prototype
+ - demo
 
 ## Blockers
  - time and midterms
