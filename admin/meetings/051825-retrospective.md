@@ -30,4 +30,4 @@
  - if we go on our own slack it might be good to make a bot for our agile reminders
  - thoughts of moving thursday meeting time to 1:30pm
 
-## End Time:
+## End Time: 2:07pm
