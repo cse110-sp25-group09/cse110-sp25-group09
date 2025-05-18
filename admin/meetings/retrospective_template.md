@@ -2,7 +2,7 @@
 
 ## Start Time:
 
-## Attendence
+## Attendance
 
 ## Sprint Number:
 
@@ -10,6 +10,9 @@
  - 
 
 ## What to Improve:
+ - 
+
+## How We Are Gonna Improve:
  - 
 
 ## General Notes:
