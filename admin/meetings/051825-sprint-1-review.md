@@ -12,8 +12,6 @@
  - Create function for memory was started and progressing. Layout and choices made. Rosario and Charon (storage team)
  - impletemented a basic html/css layout for the month calendar of only one month using a grid layout in the monthly-html branch by Ahmed and Tri
  - implemented some basic html, for the daily calendar by Brenden and Taha
- - 
-
 ## Blockers
  - sickness in the home team group
  - personal conflicts
