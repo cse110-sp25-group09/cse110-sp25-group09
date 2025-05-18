@@ -17,6 +17,7 @@
  - emphasis on meeting attendance so we know how to move forward together
  - may want to look at monday-thursday turn around, felt very fast
  - consistent meeting spot, maybe reserve?
+ - keep planner updated for project
 
 ## How We Are Gonna Improve:
  - Some members seem to be missing often so more consistent attendance communication moving forward
