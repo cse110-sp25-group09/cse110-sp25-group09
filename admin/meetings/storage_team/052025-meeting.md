@@ -2,7 +2,7 @@
 
 ## Time of Meeting: 8pm 
 
-## Attendance:Rosario, Charan
+## Attendance: Rosario, Charan
 
 ## Sprint Goals
  - Storage team: implement read card, delete card
@@ -11,7 +11,7 @@
 - Compare progress on LocalStorage protyping, createCard() implementation
 - Define GitHub issues for readCard(), updateCard(), deleteCard()
 
-rosario does create and read, i can ask travis & trisha about backedn 
+
 ## Progress Comparison 
 - Charan already implemented CRUD functionality in a branch `localStorageProto` including mock frontend 
   - Create card implementation includes fields for habitname, description, frequency, next occurrence, theme, reminder time, and streak ),
@@ -37,7 +37,8 @@ rosario does create and read, i can ask travis & trisha about backedn
   - Write GitHub Issues related to CRUD function implementation
 - Charan:
   - Merge our implementations onto a single branch 
-  - Implement deleteCard() 
+  - Implement deleteCard()
+- Team: text frontend team (Trisha, Travis, ...) to come to a consensus on data fields included in one card
  
 ## General Notes:
 - Charan will be out of town Thurs & Fri, will be home for memorial day weekend (available remotely), will join monday meeting 
