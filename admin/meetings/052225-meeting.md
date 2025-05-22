@@ -20,5 +20,6 @@
    - 'habitStreak' (start at 0 and update) functionality with heat map, might be week 3
  - Daily calander: days of week(scroll left or right to move days | visualy a circular wheel like TCG card pick)
                    habit in day(scroll up or down then click to select habit | deck of cards and they spread out(up or down))
+- Run more unit tests, perhaps a code coverage check, add to CD
 
 ## End of Meeting: 2:16pm
