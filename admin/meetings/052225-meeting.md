@@ -22,4 +22,4 @@
                    habit in day(scroll up or down then click to select habit | deck of cards and they spread out(up or down))
 - Run more unit tests, perhaps a code coverage check, add to CD
 
-## End of Meeting: 2:16pm
+## End of Meeting: 2:29pm
