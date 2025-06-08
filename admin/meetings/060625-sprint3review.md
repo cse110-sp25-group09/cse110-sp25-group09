@@ -36,6 +36,6 @@
 
 
 ## General Notes:
- - CODE FREEZE TN 11:59
+ - CODE FREEZE TN 11:59, PLEASE HAVE ALL CODE IN BY 5PM 
 
 ## End of Meeting:1:44
